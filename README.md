@@ -19,6 +19,10 @@ while (left <= right), the next possible loop would be middle - 1 rather than mi
 Use the real case to run the loop, and define what to return if the item is not found in the list. Here the left is finally returned.
 
 #### 34. Find First and Last Position of Element in Sorted Array
+Firstly use binary search to checck if target is in the array.\
+Then use **two pointers**: a left and a right one to determine the window.
+
+
 
 #### 69.
 #### 367.
