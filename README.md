@@ -22,7 +22,7 @@ Use the real case to run the loop, and define what to return if the item is not 
 Firstly use binary search to checck if target is in the array.\
 Then use **two pointers**: a left and a right one to determine the window.
 
-<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-11%20at%2012.29.36%20AM.png" width="600" height="450">
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-11%20at%2012.29.36%20AM.png" width="600" height="400">
 
 
 #### 69.
@@ -37,7 +37,7 @@ So we can use **two pointers**: a fast index and a slow index, to solve this que
 - fast pointer：find elements for the new array，the new array doesn't contain the target element;
 - slow pointer：point to the index of elements in the new array.
 
-<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="250">
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="200">
 
 #### 26.
 #### 283.
