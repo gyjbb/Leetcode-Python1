@@ -1,5 +1,5 @@
 # Leetcode-Python1
-## 代码随想录算法训练营第一天|数组理论基础、704. 二分查找、27. 移除元素 
+## Array data structure、704. Binary Search、27. Remove Element 
 May 09, 2023 
 
 This is my first day to begin the data structure and algorithums study on leetcode. \
@@ -34,8 +34,8 @@ Then use **two pointers**: a left and a right one to determine the window.
 [Reading in github](https://github.com/youngyangyang04/leetcodemaster/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md) \
 The elements in arrays are linked and can't be directly removed, but can be covered.\
 So we can use **two pointers**: a fast index and a slow index, to solve this question.
-- 快指针：寻找新数组的元素 ，新数组就是不含有目标元素的数组
-- 慢指针：指向更新 新数组下标的位置
+- fast pointer：find elements for the new array，the new array doesn't contain the target element;
+- slow pointer：point to the index of elements in the new array.
 
 <img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="250">
 
