@@ -22,6 +22,7 @@ Use the real case to run the loop, and define what to return if the item is not 
 Firstly use binary search to checck if target is in the array.\
 Then use **two pointers**: a left and a right one to determine the window.
 
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-11%20at%2012.29.36%20AM.png" width="500" height="250">
 
 
 #### 69.
