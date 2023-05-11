@@ -28,7 +28,7 @@ Use the real case to run the loop, and define what to return if the item is not 
 [Leetcode link](https://leetcode.com/problems/remove-element/) \
 [Reading in github](https://github.com/youngyangyang04/leetcodemaster/blob/master/problems/0027.%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.md) \
 The elements in arrays are linked and can't be directly removed, but can be covered.\
-So we can use **two pointers**: a fast index and a slow index, and two for loops to solve this question.
+So we can use **two pointers**: a fast index and a slow index, to solve this question.
 - 快指针：寻找新数组的元素 ，新数组就是不含有目标元素的数组
 - 慢指针：指向更新 新数组下标的位置
 
