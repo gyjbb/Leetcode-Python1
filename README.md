@@ -25,7 +25,12 @@ Then, use **two pointers**: a left and a right one to determine the window.
 <img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-11%20at%2012.29.36%20AM.png" width="600" height="400">
 
 
-#### 69.
+#### 69. Sqrt(x)
+Here the right pointer used x//2 rather than x. Time will be saved.\
+Used if mid > x / mid rather than x < mid**2, So the calculation will not exceed x's constraint. \
+
+
+
 #### 367.
 
 
