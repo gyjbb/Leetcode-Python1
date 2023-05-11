@@ -20,6 +20,9 @@ Use the real case to run the loop, and define what to return if the item is not 
 
 #### 34. Find First and Last Position of Element in Sorted Array
 
+#### 69.
+#### 367.
+
 
 ## 27. Remove Element
 [Leetcode link](https://leetcode.com/problems/remove-element/) \
@@ -29,6 +32,12 @@ So we can use a fast index and a slow index, and two for loops to solve this que
 - 快指针：寻找新数组的元素 ，新数组就是不含有目标元素的数组
 - 慢指针：指向更新 新数组下标的位置
 
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="250">
+
+#### 26.
+#### 283.
+#### 844.
+#### 977.
 
 
 [*Markdown reference*](https://leetcode.com/discuss/general-discussion/1560831/markdown-reference-for-leetcode-formatting-cheatsheet)
