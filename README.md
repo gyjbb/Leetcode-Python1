@@ -29,7 +29,7 @@ Then, use **two pointers**: a left and a right one to determine the window.
 Here the right pointer used x//2 rather than x. Time will be saved.\
 Used if mid > x / mid rather than x < mid**2, So the calculation will not exceed x's constraint. \
 
-
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-11%20at%203.26.48%20PM.png" width="400" height="250">
 
 #### 367.
 
