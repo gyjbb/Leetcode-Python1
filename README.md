@@ -37,7 +37,7 @@ So we can use **two pointers**: a fast index and a slow index, to solve this que
 - fast pointer：find elements for the new array，the new array doesn't contain the target element;
 - slow pointer：point to the index of elements in the new array.
 
-<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="200">
+<img src="https://github.com/gyjbb/Leetcode-Python1/blob/main/Screen%20Shot%202023-05-10%20at%205.46.43%20PM.png" width="500" height="220">
 
 #### 26.
 #### 283.
