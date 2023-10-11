@@ -1,8 +1,8 @@
-# Leetcode-Python1
+# LC-Python1
 ## Array data structure、704. Binary Search、27. Remove Element 
 May 09, 2023 
 
-This is my first day to begin the data structure and algorithms study on leetcode. \
+This is my first day to begin the data structure and algorithms study. \
 In this blog, I will record the daily challenges I solve on leetcode, the difficulties I meet in the study process, and the total time taken to finish the daily tasks. \
 This daily challenge project is guided by Carl, a very famous programmer. Hopefully after two months of hard work, I will gain a deeper understanding of the data structures and algorithms. And use Python to generate more efficient solutions for business problems. 
 
